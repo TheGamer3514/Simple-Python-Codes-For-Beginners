@@ -6,3 +6,7 @@ The point of this is to provide some code examples. This can also be used to sho
 
 # How To Add Codes
 Have your own codes you want to add? Just make a pull request and they may be added!
+
+# Check Out My Other Repos!
+[Silly Chat](https://github.com/TheGamer3514/silly-chat) - A simple global chat discord bot <br>
+[Yellow Pterodactyl](https://github.com/TheGamer3514/Yellow-Pterodactyl) - A simple discord bot (Discontinued)<br>
