@@ -2,7 +2,7 @@ type1 = "C"
 
 type2 = "F"
 
-type = input("Enter the letter of the temperature you wish to convert (C or F):")​
+type = input("Enter the letter of the temperature you wish to convert (C or F):")
 
 temp = int(input("Enter the temperature value:"))
 
